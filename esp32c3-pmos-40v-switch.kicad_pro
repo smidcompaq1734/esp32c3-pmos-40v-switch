@@ -1,0 +1,8 @@
+(kicad_pro
+  (version 1)
+  (generator "copilot")
+  (meta
+    (filename "esp32c3-pmos-40v-switch.kicad_pro")
+  )
+  (schematic "esp32c3-pmos-40v-switch.kicad_sch")
+)
